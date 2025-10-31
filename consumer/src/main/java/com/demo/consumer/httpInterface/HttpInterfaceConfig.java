@@ -1,4 +1,4 @@
-package com.demo.consumer.httpInterface;
+package com.demo.consumer.httpInterface ;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
